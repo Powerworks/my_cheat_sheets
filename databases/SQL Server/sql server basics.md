@@ -1,0 +1,1 @@
+See docs for SQL Server 2019 here https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15

@@ -1,0 +1,3 @@
+Azure Migrate provides a simplified migration, modernization, and optimization service for Azure. All pre-migration steps such as discovery, assessments, and right-sizing of on-premises resources are included for infrastructure, data, and applications. Azure Migrate’s extensible framework allows for integration of third-party tools, thus expanding the scope of supported use-cases.
+
+See https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview
